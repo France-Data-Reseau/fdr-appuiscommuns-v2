@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_statut","PK","Identifiant du statut","","Oui"
+"string","Libelle","","Libellé (opérateur télécom, occupant tiers, GRD-E, prestataire…)","","Oui"
+"string","Description","","Définition du statut (GT #04 §7-8 : statut qualifiable)","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

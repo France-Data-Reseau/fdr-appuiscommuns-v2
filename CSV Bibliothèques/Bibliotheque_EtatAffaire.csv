@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_etat_affaire","PK","Identifiant de l'état d'affaire","","Oui"
+"string","Libelle","","Libellé (déposée, validée, refusée, close…)","","Oui"
+"string","Description","","Description de l'étape du cycle de vie","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

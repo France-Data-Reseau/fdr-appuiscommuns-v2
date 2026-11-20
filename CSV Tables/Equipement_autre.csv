@@ -1,0 +1,7 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_Eq_autre","PK","Identifiant de l'équipement autre (boîtier, IoT, caméra, miroir…)","","Oui"
+"int","Ref_Id_support","FK","Support d'installation","","Oui"
+"int","SIREN_operateur","FK","Opérateur propriétaire","","Oui"
+"string","Type_equipement","","Boîtier fibre, IoT, capteur, caméra, miroir, éclairage public…","",""
+"string","Caracteristiques","","Libellé, caractéristiques","",""
+"date","Date_installation","","Date d'installation","date",""

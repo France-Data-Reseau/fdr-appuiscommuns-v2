@@ -1,0 +1,7 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_type_cable","PK","Identifiant du type de câble","","Oui"
+"string","Libelle","","Libellé du type (fibre BOFO, fibre AOC, cuivre, coaxial…)","","Oui"
+"string","Fibre_type","","Type de fibre (G.652, G.657…)","",""
+"int","Nombre_fibres","","Capacité en fibres","fibres",""
+"float","Diametre","","Diamètre","mm",""
+"date","Date_MAJ","","Date de mise à jour","date",""

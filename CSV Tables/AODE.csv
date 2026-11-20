@@ -1,0 +1,9 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","SIREN_AODE","PK","Identifiant de la structure AODE","","Oui"
+"string","Nom_AODE","","Raison sociale de l'AODE","","Oui"
+"string","Adresse_siege","","Adresse du siège","",""
+"string","commune_insee_siege","","Code INSEE du siège","",""
+"string","Contact_nom","","Contact référent","",""
+"string","Contact_email","","Email de contact","",""
+"string","Contact_telephone","","Téléphone de contact","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

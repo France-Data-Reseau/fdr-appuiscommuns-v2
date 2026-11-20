@@ -1,0 +1,8 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","SIREN_Intervenant","PK","Identifiant du sous-traitant","","Oui"
+"string","Raison_sociale","","Nom du sous-traitant","","Oui"
+"string","Specialite","","Prestation réalisée (relevé, installation…)","",""
+"string","Adresse_siege","","Adresse du siège","",""
+"string","Contact_nom","","Contact référent","",""
+"string","Contact_email","","Email de contact","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

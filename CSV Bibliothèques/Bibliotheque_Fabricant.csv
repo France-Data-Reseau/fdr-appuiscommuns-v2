@@ -1,0 +1,6 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_fabricant","PK","Identifiant fabricant","","Oui"
+"string","Nom_fabricant","","Nom du fabricant ou de la marque","","Oui"
+"string","Pays","","Pays d'origine","",""
+"string","Site_web","","Site web","URL",""
+"date","Date_MAJ","","Date de mise à jour","date",""

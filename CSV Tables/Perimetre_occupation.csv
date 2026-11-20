@@ -1,0 +1,3 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Ref_Id_Occupation","PK+FK","Droit d'occupation","","Oui"
+"int","Ref_Id_support","PK+FK","Support concerné par le tronçon","","Oui"

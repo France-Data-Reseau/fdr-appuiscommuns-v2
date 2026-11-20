@@ -1,0 +1,6 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_type_traverse","PK","Identifiant du type de traverse","","Oui"
+"string","Libelle","","Libellé du type (bef, traverse métallique, goulotte…)","","Oui"
+"string","Caracteristiques","","Dimensions et capacités standard","",""
+"int","Nb_cables_max","","Nombre de câbles admissible","câbles",""
+"date","Date_MAJ","","Date de mise à jour","date",""

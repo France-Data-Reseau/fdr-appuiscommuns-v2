@@ -1,0 +1,6 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_ligne","PK","Identifiant de ligne","","Oui"
+"int","Ref_Id_facture","FK","Facture alimentée par la ligne","","Oui"
+"int","Ref_Id_Occupation","FK","Droit facturé","","Oui"
+"int","Periode_facturee","","Période d'occupation facturée","AAAA (ou AAAAMM, à trancher)","Oui"
+"int","Montant","","Montant facturé pour la période","€","Oui"

@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_materiau","PK","Identifiant matériau","","Oui"
+"string","Nom_materiau","","Libellé du matériau (bois, béton, acier, composite…)","","Oui"
+"string","Description","","Description, notes d'usage","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

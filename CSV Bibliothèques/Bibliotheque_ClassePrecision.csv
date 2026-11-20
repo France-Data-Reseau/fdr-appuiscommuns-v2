@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_classe_precision","PK","Identifiant de la classe de précision","","Oui"
+"string","Libelle","","Libellé de la classe (GPS, cadastrale, adresse, approximative…)","","Oui"
+"string","Description","","Précision théorique associée","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

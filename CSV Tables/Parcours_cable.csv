@@ -1,0 +1,4 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Ref_Id_cable","PK+FK","Câble concerné","","Oui"
+"int","Ref_Id_traverse","PK+FK","Traverse franchie","","Oui"
+"int","Ordre","","Position de la traverse dans le parcours","rang",""

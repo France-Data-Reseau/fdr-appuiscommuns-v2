@@ -1,0 +1,8 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_Eq_traverse","PK","Identifiant de la traverse","","Oui"
+"int","Ref_Id_support","FK","Support d'installation","","Oui"
+"int","SIREN_operateur","FK","Opérateur propriétaire","","Oui"
+"int","Ref_Id_Occupation","FK","Droit dont la traverse relève (0..1)","","Oui"
+"string","Type_traverse","","Type de traverse","",""
+"string","Caracteristiques","","Libellé, dimensions, capacité","",""
+"date","Date_installation","","Date de pose","date",""

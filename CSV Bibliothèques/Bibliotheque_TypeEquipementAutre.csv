@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_type_eq_autre","PK","Identifiant du type d'équipement autre","","Oui"
+"string","Libelle","","Libellé (boîtier fibre PM, capteur IoT, capteur CO2, caméra, miroir, radar pédagogique, luminaire…)","","Oui"
+"string","Description","","Description, cas d'usage (GT #04 §2 : socle évolutif)","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

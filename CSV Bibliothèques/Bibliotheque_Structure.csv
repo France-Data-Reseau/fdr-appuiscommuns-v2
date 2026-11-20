@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_structure","PK","Identifiant de la forme ou structure d'appui","","Oui"
+"string","Libelle","","Libellé (coffret, console, fut…)","","Oui"
+"string","Description","","Description","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

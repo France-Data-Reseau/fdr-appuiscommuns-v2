@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_prestation","PK","Identifiant de la prestation","","Oui"
+"string","Libelle","","Libellé (relevé terrain, installation, raccordement, étude, AAT…)","","Oui"
+"string","Description","","Description de la prestation","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

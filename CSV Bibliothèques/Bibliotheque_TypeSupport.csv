@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_type_support","PK","Identifiant du type de support","","Oui"
+"string","Libelle","","Libellé du type (poteau BT, poteau HTA, façade, pyramide…)","","Oui"
+"string","Description","","Description, cas d'usage","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

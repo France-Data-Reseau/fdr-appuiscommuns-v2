@@ -1,0 +1,7 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","SIREN_GRDE","PK","SIREN du gestionnaire de réseau électrique","","Oui"
+"string","Nom_GRDE","","Raison sociale du GRD-E (ex. Enedis)","","Oui"
+"string","Adresse_siege","","Adresse du siège","",""
+"string","Contact_nom","","Contact référent","",""
+"string","Contact_email","","Email de contact","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

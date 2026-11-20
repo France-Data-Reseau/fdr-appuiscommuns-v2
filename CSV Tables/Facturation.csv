@@ -1,0 +1,9 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_facture","PK","Identifiant de la facture","","Oui"
+"int","SIREN_AODE","FK","AODE émetteur","","Oui"
+"int","SIREN_operateur","FK","Opérateur facturé","","Oui"
+"int","Periode","","Période de facturation","AAAA (ou AAAAMM, à trancher)","Oui"
+"date","Date_emission","","Date d'émission de la facture","date",""
+"int","Annee_paiement","","Année de paiement (traçabilité, GT #04 §3)","AAAA","Oui"
+"int","Annee_prochaine_redevance","","Prochaine redevance (option alerte, GT #04 §3)","AAAA",""
+"string","Destinataire_service","","Service financier destinataire (circuit de facturation)","",""

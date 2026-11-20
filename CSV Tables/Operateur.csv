@@ -1,0 +1,12 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","SIREN_operateur","PK","Identifiant opérateur télécom ou occupant tiers","","Oui"
+"string","Raison_sociale","","Nom de l'opérateur","","Oui"
+"string","Statut_tier","","Statut qualifiable (opérateur télécom, occupant tiers, autre)","","Oui"
+"string","Code_ARCEP","","Numéro ARCEP","",""
+"string","Ref_prestataire","","Prestataire terrain signalé dans les références d'affaire","",""
+"string","Adresse_siege","","Adresse du siège","",""
+"string","commune_insee_siege","","Code INSEE du siège","",""
+"string","Contact_nom","","Contact référent","",""
+"string","Contact_email","","Email de contact","",""
+"string","Contact_telephone","","Téléphone de contact","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

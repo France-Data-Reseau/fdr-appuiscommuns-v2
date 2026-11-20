@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_etat","PK","Identifiant de l'état","","Oui"
+"string","Libelle","","Libellé de l'état (neuf, bon, passable, dégradé, hors service, déposé…)","","Oui"
+"string","Description","","Description, critères de constat","",""
+"date","Date_MAJ","","Date de mise à jour","date",""

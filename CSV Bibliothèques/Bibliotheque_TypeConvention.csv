@@ -1,0 +1,5 @@
+Type,Champ,Cle,Description,Unite,Obligatoire
+"int","Id_type_convention","PK","Identifiant du type de convention","","Oui"
+"string","Libelle","","Libellé (convention type 2015, AAT simplifiée, accord cadre…)","","Oui"
+"string","Cadre_reglementaire","","Cadre réglementaire de référence (L.33, décret…)","",""
+"date","Date_MAJ","","Date de mise à jour","date",""
