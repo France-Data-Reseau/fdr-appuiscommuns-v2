@@ -31,6 +31,7 @@ Le cœur fonctionnel du modèle est la génération périodique, sur demande, de
 MCD AppComm/
 ├── README.md               → ce fichier
 ├── MCD Relations.md        → schéma de référence (liaisons entre tables)
+├── MCD Relations classDiag.md → même schéma, notation UML classDiagram
 ├── MCD Tables.md           → dictionnaire des champs, table par table
 ├── MCD Bibliothèques.md    → dictionnaire des catalogues de valeurs
 ├── MCD Questions.md        → points de vigilance et questions ouvertes
@@ -41,6 +42,7 @@ MCD AppComm/
 | Fichier / dossier | Description |
 |---|---|
 | `MCD Relations.md` | **Schéma de référence**, en syntaxe Mermaid `erDiagram` : tables relationnelles (PK, FK) et liaisons entre elles |
+| `MCD Relations classDiag.md` | **Même schéma en notation UML** (`classDiagram`), pour les lecteurs familiers de cette notation |
 | `MCD Tables.md` | **Dictionnaire des champs** : pour chaque table et chaque champ — type, nom, clé, description, unité, caractère obligatoire |
 | `MCD Bibliothèques.md` | **Catalogues de valeurs** partagés (fabricants, matériaux, types de câbles…) pour fiabiliser la saisie par référence plutôt qu'en texte libre |
 | `MCD Questions.md` | Points de vigilance et questions ouvertes à trancher collectivement |
